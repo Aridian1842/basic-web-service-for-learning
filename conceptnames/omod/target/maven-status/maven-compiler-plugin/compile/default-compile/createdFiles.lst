@@ -1,0 +1,5 @@
+org\openmrs\module\conceptnames\fragment\controller\UsersFragmentController.class
+org\openmrs\module\conceptnames\web\controller\ConceptnamesController.class
+org\openmrs\module\conceptnames\rest\resource\ConceptNamesResource.class
+org\openmrs\module\conceptnames\extension\html\AdminList.class
+org\openmrs\module\conceptnames\rest\controller\ConceptnamesRestController.class

@@ -1,0 +1,7 @@
+org\openmrs\module\conceptnames\ConceptnamesActivator.class
+org\openmrs\module\conceptnames\Conceptnames.class
+org\openmrs\module\conceptnames\api\dao\ConceptnamesDao.class
+org\openmrs\module\conceptnames\api\ConceptnamesService.class
+org\openmrs\module\conceptnames\api\impl\ConceptnamesServiceImpl.class
+org\openmrs\module\conceptnames\ConceptnamesConfig.class
+org\openmrs\module\conceptnames\Item.class
